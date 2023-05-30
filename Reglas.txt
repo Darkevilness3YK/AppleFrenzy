@@ -1,0 +1,24 @@
+REGLAS DE APPLE FRENZY:
+
+El objetivo principal es sobrevivir el mayor tiempo posible con la mayor puntuación posible.
+¿Cuánto sobrevivirás?
+
+Puedes recoger los siguientes items sin problemas:
+- Manzana roja: te da 1 punto. Si no se recoge 1 manzana, se pierde 1 vida. Sube la velocidad del juego en 0.2.
+- Manzana verde: te da 2 puntos. Te recupera 1 vida siempre que estén por debajo del máximo, que es 10. Sube la velocidad del juego en 0.2.
+- Manzana dorada: te da 5 puntos. Te recupera todas las vidas perdidas, es decir, te deja con 10 vidas. Sube la velocidad del juego en 0.2.
+- Manzana arcoíris: da un tiempo de frenesí. Durante el tiempo de frenesí, eres inmune a las bombas,
+                    al efecto de las manzanas esqueleto, a las manzanas podridas y a perder vidas por
+                    dejar caer manzanas rojas. Además, las manzanas rojas caerán muy rápidamente, lo que
+                    te permitirá sumar muchos puntos. Evita que cualquier item que recojas te suba la velocidad del juego.
+
+Necesitas evitar a toda costa los siguientes items (si tienes tiempo de frenesí no te pasará nada si los recoges):
+- Manzana podrida: pierdes 10 puntos. Si tienes menos de 10 puntos, te quedarás con 0 puntos.
+                   También te hace perder 2 vidas.
+- Bomba: si la recoges y no hay tiempo de frenesí, se acaba el juego.
+- Manzana esqueleto: da un tiempo de maldición. Durante el tiempo de maldición, las bombas van a caer muy rápido. ¡Evítalas!
+
+El juego puede tener algunos bugs. Una disculpa por ello, aún somos programadores amateurs.
+Si se te bugea el juego, basta con reabrirlo para que puedas volver a jugar normalmente.
+
+¡Diviertete! :]
