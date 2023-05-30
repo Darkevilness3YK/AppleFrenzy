@@ -1,0 +1,12 @@
+Es posible que el juego no corra a la primera, puesto que las librerías externas tienen sus defectos.
+Si a la primera no corre el juego, solo seguir ejecutando hasta que corra con éxito.
+
+También es posible que el juego empiece a malfuncionar en algún punto. Esto es normal, puesto que los hilos
+(Threads) son propensos a fallar al trabajar en conjunto con el paquete javax.swing. Lo ideal fue haber
+usado timers.
+Este tipo de fallos en los Threads es muy poco probable que se den, pero si se dan, reiniciar el juego.
+
+En la carpeta "Librerías externas" se adjuntan las 2 librerías que se deben importar al proyecto de Java del videojuego.
+De lo contrario, la intro del juego no funcionará.
+En total, las 2 librerías componen un conjunto de 12 archivos .jar. ¡Importar todos en el proyecto!
+
